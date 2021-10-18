@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="7.6870" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-18T18:54:04" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Users" timestamp="2021-10-18T18:54:04" tests="0" file="C:\api_tests\test\users-advanced.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POST" timestamp="2021-10-18T18:54:04" tests="1" file="C:\api_tests\test\users-advanced.js" time="1.2310" failures="0">
+    <testcase name="Users POST /users" time="1.2270" classname="/users">
+    </testcase>
+  </testsuite>
+  <testsuite name="POST" timestamp="2021-10-18T18:54:05" tests="1" file="C:\api_tests\test\users-advanced.js" time="1.3800" failures="0">
+    <testcase name="Users POST /users" time="1.3780" classname="/users">
+    </testcase>
+  </testsuite>
+  <testsuite name="POST" timestamp="2021-10-18T18:54:06" tests="1" file="C:\api_tests\test\users-advanced.js" time="1.2940" failures="0">
+    <testcase name="Users POST /users" time="1.2930" classname="/users">
+    </testcase>
+  </testsuite>
+  <testsuite name="POST" timestamp="2021-10-18T18:54:08" tests="1" file="C:\api_tests\test\users-advanced.js" time="1.6610" failures="0">
+    <testcase name="Users POST /users" time="1.6580" classname="/users">
+    </testcase>
+  </testsuite>
+  <testsuite name="POST" timestamp="2021-10-18T18:54:09" tests="1" file="C:\api_tests\test\users-advanced.js" time="1.0610" failures="0">
+    <testcase name="Users POST /users" time="1.0590" classname="/users">
+    </testcase>
+  </testsuite>
+  <testsuite name="POST" timestamp="2021-10-18T18:54:10" tests="1" file="C:\api_tests\test\users-advanced.js" time="1.0580" failures="0">
+    <testcase name="Users POST /users" time="1.0550" classname="/users">
+    </testcase>
+  </testsuite>
+</testsuites>
